@@ -13,7 +13,17 @@ const data: Project[] = [
     Tech.ExpressJS, 
     Tech.NodeJS, 
     Tech.React
-  ],}
+  ],},
+  {
+    id: '2',
+    name: 'Rhythm Simulator',
+    description: 'A minimal Osu! Mania simulator. Compatible with Osu! beatmaps. Not publically available due to audio copyrights.',
+    link: '...',
+    tech: [
+      Tech.CSharp,
+      Tech.Unity,
+    ]
+  }
 ];
 
 export default data;

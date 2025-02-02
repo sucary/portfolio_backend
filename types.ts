@@ -5,6 +5,9 @@ export enum Tech {
   React = "React",
   Angular = "Angular",
   Vue = "Vue",
+  CSharp = "C#",
+  Unity = 'Unity',
+  
 }
 
 export enum ContactType {

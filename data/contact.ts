@@ -5,7 +5,7 @@ const data: Contact[] = [
     type: [ContactType.Github],
     value: 'https://github.com/sucary',
     displayName: 'GitHub',
-    icon: 'icon here',
+    icon: 'github',
   },
 ];
 
